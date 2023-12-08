@@ -30,4 +30,4 @@ __pycache__/
 *.pyc
 
 # Ignore mac files
-.DS_Store
+*DS_Store
