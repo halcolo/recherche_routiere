@@ -1,3 +1,0 @@
-accidents de la circulation en France : https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/
-
-Télecharger les données individueles de chaque une des bases de données dépuis 2005 jusqu'à 2022, aussi comment le ficher `description-des-bases-de-donnees-onisr-annees-2005-a-2020.pdf` pour identifier chaque représentation des valeurs sur datasets
