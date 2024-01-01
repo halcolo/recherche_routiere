@@ -4,6 +4,12 @@
 
 This project is part of a research project about road accidents, a random forest classification algorithm is used in order to identify which are the most important features that can determine the prediction of an accident, this work is part of a research project carried out for the **Université Lumiere Lyon 2** in 2023.
 
+#### Authors
+Laure Gentili\
+Tiavina Andriamisaina\
+Marwan Ait Addi\
+Juan Diego Alfonso
+
 ### Introduction
 Since the popularization of the automobile, researchers have studied road accidents with the aim of improving user safety. canada. In this study, we seek to use modern data science techniques to classify road accidents in France, in order to identify associated risk factors. To do this, we use data from [data.gouv.fr](http://data.gouv.fr/), which we analyze using a random forest algorithm. The results of this study will allow us to determine the factors that influence the severity of an accident and to propose ways to avoid them.
 
