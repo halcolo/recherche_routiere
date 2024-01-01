@@ -15,4 +15,4 @@ Within the data folder, create a folder for each year to be evaluated and within
 
 ![Screenshot 2024-01-01 at 22 13 56](https://github.com/jdalfons/recherche_routiere/assets/25759070/a6320eb5-61df-4f95-a9c3-42a89ee7c1ba)
 
-After this you can check results in the `data_explore.ipynb` file, **Note**: last result with the report of classification is the most exigent process and can take more than 30 minutes in geeration. 
+After this you can check results in the `data_explore.ipynb` file, **Note**: last result with the report of classification is the most exigent process and can take more than 30 minutes in geeration 
